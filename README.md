@@ -7,6 +7,8 @@ parse-and-unite is a GUI-based software that combines and concludes several pep.
 This project include modifications from this open-source code for venn-diagrams : https://github.com/tctianchi/pyvenn
 
 
+##### for any issue please contact me : glory.abr@gmail.com 
+
 # 1.Prerequisites
 You may need to import several packages in order to run this program (using pip install or downloading manually via links below)
 
@@ -22,6 +24,7 @@ You may need to import several packages in order to run this program (using pip 
 
 
 # 3. Explenations and how-to
+    
 
 ### Opening screen:
 ![image](https://user-images.githubusercontent.com/18205398/209855307-63dc16c4-7e8e-44de-a06b-753c6ae6b257.png)
@@ -75,5 +78,3 @@ these are the uniqe summery for each file individually
    
  #### united file:
    
- 
-

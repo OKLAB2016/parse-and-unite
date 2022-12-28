@@ -23,4 +23,6 @@ You may need to import several packages in order to run this program (using pip 
 
 # 3. Explenations and how-to
 
+### Opening screen:
+![image](https://user-images.githubusercontent.com/18205398/209855140-132fea9f-9ed4-4a7d-8f0d-b307ec2311e1.png)
 

@@ -41,5 +41,7 @@ Choose your running mode:
 Then click the "Run" button.
 
 ###### On default mode you may see another window popping, asking you how to calculate your ratio (heavy/light or light/heavy)
+![image](https://user-images.githubusercontent.com/18205398/209857437-dc7d157c-1833-432f-bac4-80b3a973c7ba.png)
 
+### Output files:
 

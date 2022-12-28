@@ -44,4 +44,14 @@ Then click the "Run" button.
 ![image](https://user-images.githubusercontent.com/18205398/209857437-dc7d157c-1833-432f-bac4-80b3a973c7ba.png)
 
 ### Output files:
+When the program will be finished, press "OK". your source folder will be opened automaticlly with all your output files.
 
+![image](https://user-images.githubusercontent.com/18205398/209857982-9b26c1fe-e862-4436-805f-5cfed2926202.png)
+
+
+
+#### Venn PNGs
+You should get four venn diagramms- peptides intersections, protein intersections, PSM intersections and stripped intersections.
+example:
+
+![image](https://user-images.githubusercontent.com/18205398/209858248-95246b08-7546-47c0-b800-240b235738ad.png)

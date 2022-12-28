@@ -1,7 +1,7 @@
 # parse-and-unite
-Parse, conclude and unite pep-xmls samples into xlsxs and venn diagrams
+Parse, conclude and unite several Trans Proteomic Pipline (TPP) intetact files while generating sevral Excel output files.
 
-parse-and-unite is a GUI-based software that combines and concludes several pep.xml samples into user-friendly xlsx files and venn diagramms as well as calculation of ratio, st deviation, and other parameters depending on the chosen mode.
+parse-and-unite is a GUI-based software that combines and concludes several interact.pep.xml samples into user-friendly xlsx files and venn diagramms as well as calculation of ratio, st deviation, and other parameters depending on the chosen mode.
 
 #### NOTE:
 This project include modifications from this open-source code for venn-diagrams : https://github.com/tctianchi/pyvenn

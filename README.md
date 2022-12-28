@@ -39,6 +39,7 @@ Choose your running mode:
 4- variable:
 
 Then click the "Run" button.
-On default mode you may see another window popping, asking you how to calculate your ratio (heavy/light or light/heavy)
+
+######On default mode you may see another window popping, asking you how to calculate your ratio (heavy/light or light/heavy)
 
 

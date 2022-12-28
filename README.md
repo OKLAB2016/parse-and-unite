@@ -10,9 +10,17 @@ This project include modifications from this open-source code for venn-diagrams 
 # 1.Prerequisites
 You may need to import several packages in order to run this program (using pip install or downloading manually via links below)
 
-    1. xlsxwriter:
+   ###### 1. xlsxwriter:
       https://pypi.org/project/XlsxWriter/
 
-    2. matplotlib:
+   ###### 2. matplotlib:
       https://pypi.org/project/matplotlib/
+      
+      
+# 2. Run
+    Run xml_parser_view.py, this is the main file.
+
+
+# 3. Explenations and how-to
+
 

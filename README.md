@@ -1,9 +1,9 @@
 # parse-and-unite
-parse, conclude and unite pep-xmls samples into xlsxs and venn diagrams
+Parse, conclude and unite pep-xmls samples into xlsxs and venn diagrams
 
 parse-and-unite is a GUI-based software that combines and concludes several pep.xml samples into user-friendly xlsx files and venn diagramms as well as calculation of ratio, st deviation, and other parameters depending on the chosen mode.
 
-##### NOTE:
+#### NOTE:
 This project include modifications from this open-source code for venn-diagrams : https://github.com/tctianchi/pyvenn
 
 
@@ -18,7 +18,7 @@ You may need to import several packages in order to run this program (using pip 
       
       
 # 2. Run
-    Run xml_parser_view.py, this is the main file.
+   The main file is xml_parser_view.py, you should run it only.
 
 
 # 3. Explenations and how-to
@@ -41,10 +41,13 @@ Choose your running mode:
 Then click the "Run" button.
 
 ###### On default mode you may see another window popping, asking you how to calculate your ratio (heavy/light or light/heavy)
+
 ![image](https://user-images.githubusercontent.com/18205398/209857437-dc7d157c-1833-432f-bac4-80b3a973c7ba.png)
+
 
 ### Output files:
 When the program will be finished, press "OK". your source folder will be opened automaticlly with all your output files.
+
 
 ![image](https://user-images.githubusercontent.com/18205398/209857982-9b26c1fe-e862-4436-805f-5cfed2926202.png)
 
@@ -52,6 +55,25 @@ When the program will be finished, press "OK". your source folder will be opened
 
 #### Venn PNGs
 You should get four venn diagramms- peptides intersections, protein intersections, PSM intersections and stripped intersections.
-example:
+
+Example:
+
 
 ![image](https://user-images.githubusercontent.com/18205398/209858248-95246b08-7546-47c0-b800-240b235738ad.png)
+
+
+#### xlsx for each pep.xml file:
+<file-name>_out.xlsx
+these are the uniqe summery for each file individually
+
+
+   
+ 
+#### outPSM file:
+   
+   
+   
+ #### united file:
+   
+ 
+

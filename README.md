@@ -26,13 +26,13 @@ You may need to import several packages in order to run this program (using pip 
 ### Opening screen:
 ![image](https://user-images.githubusercontent.com/18205398/209855307-63dc16c4-7e8e-44de-a06b-753c6ae6b257.png)
 
-click the "Browse" button and select all your pep.xml samples files (note- if you choose more than 6 files, the script will not generate venn diagrams for these samples)
+Click the "Browse" button and select all your pep.xml samples files (note- if you choose more than 6 files, the script will not generate venn diagrams for these samples)
 
-choose your output file name, this will be the name for the united file
+Choose your output file name, this will be the name for the united file
 
-choose your error rate, this rate is in percentage. peptides lower than this thrashhold will be excluded
+Choose your error rate, this rate is in percentage. peptides lower than this thrashhold will be excluded
 
-choose your running mode: 
+Choose your running mode: 
 1- default :
 2- label free:
 3- K and uniform n-terms:

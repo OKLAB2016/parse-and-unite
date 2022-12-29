@@ -36,10 +36,10 @@ Choose your output file name, this will be the name for the united file
 Choose your error rate, this rate is in percentage. peptides lower than this thrashhold will be excluded
 
 Choose your running mode: 
-1- default :
-2- label free:
-3- K and uniform n-terms:
-4- variable:
+1- default : quantify variable isotopic labeling difference
+2- label free: quantify peptide's pick area based on label free
+3- K and uniform n-terms: quantify variable isotopic labeling difference of single amino acid while having fixed terminal modifications
+4- variable: calculate variable modification occurances 
 
 Then click the "Run" button.
 
@@ -73,8 +73,16 @@ these are the uniqe summery for each file individually
    
  
 #### outPSM file:
-   
+   informative table for psm level features (unite all samples in a single file)
    
    
  #### united file:
+   informative table for peptive level features (unite all samples in a single file)
+   
+   
+   
+ #####ratio calculation and column explentations:
+   peak area was callculated by quantifying and summing all the PSMs peak areas, in case of isotopic labels
+   the united file contains "ratio" column, which the divition product of the light/ heavy areas.
+   (modifications included in the peak are sum: oxidation (M) , alkylation (C))
    

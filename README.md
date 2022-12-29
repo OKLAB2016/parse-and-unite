@@ -31,7 +31,7 @@ Click the "Browse" button and select all your pep.xml samples files (note- if yo
 
 Choose your output file name, this will be the name of your united file
 
-Choose your error rate, as percentage. Peptides whose concentration are lower than this threshhold will be excluded
+Choose your error rate, as percentage. Peptides whose concentration are lower than this threshhold will be excluded.
 
 Choose your running mode: 
 ## 1- Default: 
@@ -95,7 +95,7 @@ These are the interim uniqe summary files for each output file.
    
  ##### Ratio calculation and column descriptions:
    Peak area was calculated by quantifying and summing all the PSMs peak areas, in the case of isotopic labels
-   the united file contains a "ratio" column, which is the  quotientof the light/ heavy areas.
+   the united file contains a "ratio" column, which is the  quotient of the light/ heavy areas.
    (modifications included in the peak area sum: oxidation (M), alkylation (C))
    
 

@@ -34,22 +34,22 @@ Choose your output file name, this will be the name of your united file
 Choose your error rate, this rate is in percentage. Peptides lower than this thrashhold will be excluded
 
 Choose your running mode: 
-## 1- default : 
+## 1- Default : 
 
-quantify variable isotopic labeling difference
+Quantify variable isotopic labeling difference.
 
 
-## 2- label free:
+## 2- Label free:
 
-quantify peptide's pick area based on label free
+Quantify peptide's peak area based on label free.
 
 ## 3- K and uniform n-terms: 
 
-quantify variable isotopic labeling difference of single amino acid while having fixed terminal modifications
+Quantify variable isotopic labeling difference of a single amino acid while having fixed terminal modifications.
 
-## 4- variable:
+## 4- Variable:
 
-calculate variable modification occurances 
+Calculate variable modification occurances 
 
 
 

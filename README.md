@@ -31,7 +31,7 @@ Click the "Browse" button and select all your pep.xml samples files (note- if yo
 
 Choose your output file name, this will be the name of your united file
 
-Choose your error rate, this rate is in percentage. Peptides lower than this thrashhold will be excluded
+Choose your error rate, the rate is in percentage. Peptides lower than this thrashhold will be excluded
 
 Choose your running mode: 
 ## 1- Default : 
@@ -49,7 +49,7 @@ Quantify variable isotopic labeling difference of a single amino acid while havi
 
 ## 4- Variable:
 
-Calculate variable modification occurances 
+Calculate variable modification occurances.
 
 
 
@@ -62,7 +62,7 @@ When you all set, click the "Run" button.
 
 
 ### Output files:
-When the program will be finished, press "OK". your source folder will be opened automaticlly with all your output files.
+When the program will be finished, press "OK". Your source folder will be opened automaticlly with all your output files.
 
 
 ![image](https://user-images.githubusercontent.com/18205398/209857982-9b26c1fe-e862-4436-805f-5cfed2926202.png)
@@ -80,16 +80,16 @@ Example:
 
 #### Xlsx for each pep.xml file:
 file-name_out.xlsx
-These are the uniqe summery for each file individually
+These are the uniqe summery for each file individually.
 
    
  
 #### OutPSM file:
-   Informative table for PSM level features (unite all samples in a single file)
+   Informative table for PSM level features (unite all samples in a single file).
    
    
  #### United file:
-   Informative table for peptive level features (unite all samples in a single file)
+   Informative table for peptive level features (unite all samples in a single file).
    
    
    

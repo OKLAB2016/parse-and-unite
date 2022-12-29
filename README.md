@@ -1,7 +1,7 @@
 # Parse-and-unite
 Parses, concludes and unites several Trans Proteomic Pipline (TPP) interact files and generates several Excel output files.
 
-parse-and-unite is a GUI-based software that combines and concludes several interact.pep.xml samples into user-friendly xlsx files and Venn diagrams as well as calculation of ratio, standard deviation, and other parameters depending on the chosen mode.
+Parse-and-unite is a GUI-based software that combines and concludes several interact.pep.xml files into user-friendly xlsx files and Venn diagrams as well as calculation of ratio, standard deviation, and other parameters depending on the chosen mode. The merging process also include a filtration step based on false discovery rate and minimal number of matched ions.
 
 #### NOTE:
 This project includes modifications from this open-source code for Venn-diagrams : https://github.com/tctianchi/pyvenn

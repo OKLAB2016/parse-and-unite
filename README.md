@@ -31,7 +31,7 @@ Click the "Browse" button and select all your pep.xml samples files (note- if yo
 
 Choose your output file name, this will be the name of your united file
 
-Choose your error rate, as percentage. Peptides whose concentration are lower than this threshhold will be excluded.
+Choose your error rate, as percentage. Peptides whose probability are lower than this threshhold will be excluded.
 
 Choose your running mode: 
 ## 1- Default: 

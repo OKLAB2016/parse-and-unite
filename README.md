@@ -78,22 +78,22 @@ Example:
 ![image](https://user-images.githubusercontent.com/18205398/209858248-95246b08-7546-47c0-b800-240b235738ad.png)
 
 
-#### xlsx for each pep.xml file:
+#### Xlsx for each pep.xml file:
 file-name_out.xlsx
 These are the uniqe summery for each file individually
 
    
  
-#### outPSM file:
+#### OutPSM file:
    Informative table for PSM level features (unite all samples in a single file)
    
    
- #### united file:
+ #### United file:
    Informative table for peptive level features (unite all samples in a single file)
    
    
    
- ##### ratio calculation and column explentations:
+ ##### Ratio calculation and column explentations:
    Peak area was callculated by quantifying and summing all the PSMs peak areas, in case of isotopic labels
    the united file contains "ratio" column, which is the divition product of the light/ heavy areas.
    (modifications included in the peak are sum: oxidation (M) , alkylation (C))
@@ -101,4 +101,4 @@ These are the uniqe summery for each file individually
 
 
 
-#### for any issue please contact me : glory.abr@gmail.com 
+#### For any issue please contact me : glory.abr@gmail.com 

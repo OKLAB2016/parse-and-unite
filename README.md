@@ -100,6 +100,6 @@ These are the interim uniqe summary files for each output file.
    (modifications included in the peak area sum: oxidation (M), alkylation (C))
    
 # 4. Additional information:
-In addition to PSM filtration based on FDR (which can be controled from the GUI), it is also possible to change the treshhold of minimal number of matched ions (default=5) by editing line 6 of parserPep.py (in Utils)
+In addition to PSM filtration based on FDR (which can be controled from the GUI), it is also possible to change the threshold of minimal number of matched ions (default=5) by editing line 6 of parserPep.py (in Utils)
 
 #### For any issue please contact me : glory.abr@gmail.com
